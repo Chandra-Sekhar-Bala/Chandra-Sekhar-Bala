@@ -13,7 +13,7 @@
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning DevOps.
 - 💬 Ask me about Android Development.
-- 📫 How to reach me **contact.sekhar.chandra.5832@gmail.com**
+- 📫 How to reach me **sekhar.chandra.5832@gmail.com**
 ---
 
 <h3 align="left">Connect with me:</h3>
