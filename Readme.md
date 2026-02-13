@@ -1,5 +1,5 @@
 # Hi 👋, I'm Chandra Sekhar Bala:
-🔭  I’m a Student of **Masters of Computer Application**<br>😄 Pronouns: He/Him<br>🌱 I’m currently learning **Android ans DSA**.<br>💬 Ask me about Android Development.<br>⚡ Fun fact about me: I love hanging around communities and listening music🎧 <br>📫 How to reach me **sekhar.chandra.5832@gmail.com**
+🔭  Working as a **Software Engineer (Android)**<br>😄 Pronouns: He/Him<br>🌱 I’m currently learning **Android ans DSA**.<br>💬 Ask me about Android Development.<br>⚡ Fun fact about me: I love hanging around communities and listening music🎧 <br>📫 How to reach me **sekhar.chandra.5832@gmail.com**
 
 
 ## 🌐 Socials:
@@ -15,3 +15,4 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
